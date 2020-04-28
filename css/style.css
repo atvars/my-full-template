@@ -43,7 +43,7 @@ h1 {
 .card {
     float: left;
     width: 30%;
-    margin-left: 10%;
+    margin-left: 12%;
     max-width: 260px;
     min-width: 150px;
 }
