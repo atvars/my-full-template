@@ -41,9 +41,9 @@ h1 {
 }
 
 .card {
-    float: left;
+    float: center;
     width: 30%;
-    margin: 0 15%;
+    margin: 15% 30%;
     max-width: 260px;
     min-width: 150px;
 }
